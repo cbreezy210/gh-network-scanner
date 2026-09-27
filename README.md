@@ -12,6 +12,8 @@ Stop relying on algorithmic feeds. Map the hidden connections. Find the peers yo
 
 GitHub's native "Explore" feed is full of noise. If you want to find true domain experts—C++ reverse engineers, local-AI builders, systems architects—you need to look at the intersection of the people *you* trust and the people *they* trust.
 
+This is the exact tool recently used to discover and connect with Switch homebrew legends (ClusterM, fincs, WinterMute) and local-AI architects, proving the zero-dependency, safety-first architecture in the wild.
+
 This script crawls your network, cross-references the "following" lists of your connections, and applies a strict **Quality Gate** to filter out bots, mass-followers, and tutorial-grinders.
 
 ## ✨ Features
