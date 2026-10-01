@@ -53,6 +53,8 @@ set GITHUB_TOKEN=ghp_YOUR_TOKEN_HERE
 
 ## 📖 Usage
 
+> 💡 **First Run Tip:** By default, the script scans *my* network (`cbreezy210`). To map **your** network, pass your username with the `-u` flag on your first run (e.g., `python gh_network_scanner.py -u your_github_username`). No need to edit the source code!
+
 Run the script directly from your terminal.
 
 ```bash
